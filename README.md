@@ -31,3 +31,5 @@ Calling ELH_UI_DIFF_PCK_7-3_NDR.jar in the opposite way to check UIDiff(S,O) mea
 
 The jar file: ELH_UI_DIFF_PCK_7-3_NDR.jar is based on the ELH forgetter developed by [gdhzLZ](https://github.com/gdhzLZ/ELH-forgetting).
 
+All the data for the experiments described in Section 5.5 of my thesis is [here](https://tinyurl.com/evaluation-data). 
+
