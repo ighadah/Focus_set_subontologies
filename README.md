@@ -27,3 +27,5 @@ Calling ELH_UI_DIFF_PCK_7-3_NDR.jar in this way means that we check UIDiff(O,S),
 
 Calling ELH_UI_DIFF_PCK_7-3_NDR.jar in the opposite way to check UIDiff(S,O) means that we see if the source ontology O has a logical difference that is not entailed by the subontology S.
 
+The jar file: ELH_UI_DIFF_PCK_7-3_NDR.jar is based on the ELH forgetter developed by [gdhzLZ](https://github.com/gdhzLZ/ELH-forgetting).
+
