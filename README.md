@@ -2,9 +2,11 @@
 This repository contains the focus set subontology generator, and all the verification methods described in my doctoral thesis: "Focus Set Subontologies and Semantic Difference for Large ELH Ontologies"
 
 * To compute focus set subontologies:
+
 java -jar  Compute_Focus_set_subontologies.jar <ontology_path/O.owl> <signature_path/sig.owl> <output_path/subontology.owl>
 
 * To verify that the transitive closure of the subontology is equal to the transitive closure of the source ontology restricted to the signature of the subontology:
+
 java -jar Subontology_verification_TR.jar <subontology_path/subontology.owl> <sourceontology_path/source_ontology.owl>
 
 * To check if the logical strength of the abstracted definitions is equal to (or weaker than) the original definitions in the source ontology:
